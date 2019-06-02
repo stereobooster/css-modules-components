@@ -107,14 +107,17 @@ Every class in CSS Module can be used as the "source" for the component and as a
 ```
 
 ```js
-const styled = styledModules(styles);
+import cssModulesComponents from "css-modules-components";
+import styles from "./Button.module.css";
+const styled = cssModulesComponents(styles);
+
 const Button = styled.button("Button");
 
 export const App = () => (
   <>
-    {/* className="Button" */}
+    {/*<button className="Button">Normal Button</button>*/}
     <Button>Normal Button</Button>
-    {/* className="Button primary" */}
+    {/*<button className="Button primary">Primary Button</button>*/}
     <Button primary>Primary Button</Button>
   </>
 );
