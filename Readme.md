@@ -1,4 +1,4 @@
-<img src="" width="150" height="150" />
+<img src="https://github.com/stereobooster/css-modules-components/blob/master/css-modules-components.png?raw=true" width="150" height="150" />
 
 # styled-components for CSS Modules
 
