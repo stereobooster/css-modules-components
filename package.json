@@ -1,0 +1,19 @@
+{
+  "name": "css-modules-components",
+  "version": "1.0.0",
+  "description": "styled-components for CSS Modules",
+  "main": "index.js",
+  "modules": "index.js",
+  "author": "stereobooster",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "react": "^16.8.6"
+  },
+  "files": [
+    "index.js"
+  ]
+}
