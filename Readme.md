@@ -127,3 +127,7 @@ export const App = () => (
 
 - https://github.com/akameco/styled-style
 - https://github.com/JedWatson/classnames
+
+## Alternatives
+
+- https://github.com/theKashey/css-to-js-loader
