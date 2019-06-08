@@ -1,6 +1,6 @@
 {
   "name": "css-modules-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "styled-components for CSS Modules",
   "main": "index.js",
   "modules": "index.js",

@@ -1,6 +1,6 @@
 import React from "react";
 
-export default = styles => {
+export default styles => {
   const get = (_, defaultAs, __) => defaultClass => {
     if (
       process.env.NODE_ENV === "development" &&
